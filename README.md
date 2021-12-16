@@ -4,10 +4,10 @@ A Node.Js app using [Express 4](http://expressjs.com/)
 ## Running Locally
 Make sure you have [Node.js](https://nodejs.org/en/) 
 
-> git clone git@github.com:mpwanyi256/cities-api.git
-> cd cities-api
-> npm install
-> npm start
+- git clone `git@github.com:mpwanyi256/cities-api.git`
+- cd cities-api
+- npm install
+- npm start
 
 Your app should be running on [localhost:3000](http://localhost:3000/)
 
