@@ -14,3 +14,8 @@ Your app should be running on [localhost:3000](http://localhost:3000/)
 ## Documentation
 - For more information about using Node.JS follow [this link](https://nodejs.org/en/)
 - For more about express follow [this link](http://expressjs.com/)
+
+## Deployment
+- Production site backend [https://cities-app-ug.herokuapp.com/](https://cities-app-ug.herokuapp.com/)
+
+- Production site frontend [https://cities-app-ug.netlify.app/](https://cities-app-ug.netlify.app/)
