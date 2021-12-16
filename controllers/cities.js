@@ -19,7 +19,7 @@ const getCity = ((req, res, next) => {
     } else {
         res.status(302).json({
             error: true,
-            message: `Sorry, no product found with id ${id}`
+            message: `Sorry, no city found with id ${id}`
         })
     }
 })
