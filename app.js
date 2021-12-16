@@ -27,6 +27,9 @@ app.use((req, res, next) => {
 })
 
 // Routes
+app.get('/', (req, res) => {
+    res.status(200).send({ message: 'Welcome to cities API.'});
+})
 app.use('/cities', citiesRoutes)
 
 // Error handler for invalid routes
