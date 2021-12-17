@@ -1,7 +1,7 @@
 const cities = require('../models/cities')
 
 const getAllCities = ((req, res, next) => {
-    res.json({
+    res.status(200).json({
         cities,
         count: cities.length
     })
