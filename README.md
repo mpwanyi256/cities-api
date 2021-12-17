@@ -11,6 +11,11 @@ Make sure you have [Node.js](https://nodejs.org/en/)
 
 Your app should be running on [localhost:3000](http://localhost:3000/)
 
+### Running tests
+```
+npm run test
+```
+
 ## Documentation
 - For more information about using Node.JS follow [this link](https://nodejs.org/en/)
 - For more about express follow [this link](http://expressjs.com/)
