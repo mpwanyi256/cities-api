@@ -23,4 +23,4 @@ npm run test
 ## Deployment
 - Production site backend [https://cities-app-ug.herokuapp.com/](https://cities-app-ug.herokuapp.com/)
 
-- Production site frontend [https://cities-app-ug.netlify.app/](https://cities-app-ug.netlify.app/)
+- Production site frontend [https://cities-app-ug.netlify.app/](https://61bf19bbe151dc729f658d62--cities-app-ug.netlify.app/)
